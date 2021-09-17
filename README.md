@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @WOlejniczak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hi there 👋 
+ 
+ My name is Wiktor Olejniczak. I am the second year Information Technology student at UŁ University.
+ I am interesten in C#/C++
+ 
+ - Projects that I want to implement in the near future 
+ 1. A graphic game with physics, upgrades 
+ 2. Simple GUI desktop application 
+ 
+ - To reach my goals I am currently learning SFML and Qt 
 
-<!---
-WOlejniczak/WOlejniczak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
