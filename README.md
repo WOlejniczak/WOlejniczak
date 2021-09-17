@@ -13,7 +13,7 @@ I am interesten in C#/C++
 
 ### My LinkedIN:
 
-<a href = "https://www.linkedin.com/in/wiktor-olejniczak-25191421b/"><img align="left"  " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+<a href ="https://www.linkedin.com/in/wiktor-olejniczak-25191421b/"> <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 
 <br />
 
