@@ -1,28 +1,15 @@
- Hi there 👋 
- 
- My name is Wiktor Olejniczak. I am the second year Information Technology student at University of Łódź.
- I am interesten in C#/C++
- 
- - Projects that I want to implement in the nearest future 
- 1. A graphic game with physics, enemies and character upgrades :bomb:
- 2. Simple GUI desktop application :ghost:
- 
- - To reach my goals I am currently learning SFML and Qt :hammer:
-### My Socials:
+## Hi there 👋
 
+My name is Wiktor Olejniczak. I am the second year Information Technology student at University of Łódź.</br>
+I am interesten in C#/C++ 
 
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 Course that I'm using to learn C++: https://www.learncpp.com 
+- 🌱 I’m currently learning SFML, STL
+- 👯 I’m looking for an intership to develop myself
+- 🥅 Nearest future Goals: 
+   - A graphic game with physics, enemies and character upgrades :bomb:
+   - Simple GUI desktop application :ghost:
+- ⚡ Fun fact: I love motorcycles and dogs
 
 ### Connect with me:
 
