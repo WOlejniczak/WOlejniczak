@@ -11,9 +11,10 @@ I am interesten in C#/C++
    - Simple GUI desktop application :ghost:
 - ⚡ Fun fact: I love motorcycles and dogs
 
-### My LinkedIN:
+### Socials:
 
-<a href ="https://www.linkedin.com/in/wiktor-olejniczak-25191421b/" target="_blank"> <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+<a href ="https://www.linkedin.com/in/wiktor-olejniczak-25191421b/" target="_blank"> <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> 
+<a href ="https://www.facebook.com/wiktor.olejniczak.39/" target="_blank"> <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> </a> 
 
 <br />
 
