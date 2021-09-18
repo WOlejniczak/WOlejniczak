@@ -5,11 +5,11 @@ I am interesten in C#/C++
 
 - 🔭 Course that I'm using to learn C++: https://www.learncpp.com 
 - 🌱 I’m currently learning SFML, STL
-- 👯 I’m looking for an intership to develop myself
+- 👯 I’m looking for an intership to develop my skills
 - 🥅 Nearest future Goals: 
    - A graphic game with physics, enemies and character upgrades :bomb:
    - Simple GUI desktop application :ghost:
-- ⚡ Fun fact: I love motorcycles and dogs
+- ⚡ Fun fact: I love motorcycles and dogs and dogs on motorcycles
 
 ### Socials:
 
