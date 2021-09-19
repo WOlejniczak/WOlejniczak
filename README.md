@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Wiktor Olejniczak. I am the second year Information Technology student at University of Łódź.</br>
-I am interesten in C#/C++ 
+I am interested in C#/C++ 
 
 - 🔭 Course that I'm using to learn C++: https://www.learncpp.com 
 - 🌱 I’m currently learning Unreal Engine, STL
