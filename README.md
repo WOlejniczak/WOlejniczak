@@ -4,7 +4,7 @@ My name is Wiktor Olejniczak. I am the second year Information Technology studen
 I am interesten in C#/C++ 
 
 - 🔭 Course that I'm using to learn C++: https://www.learncpp.com 
-- 🌱 I’m currently learning SFML, STL
+- 🌱 I’m currently learning Unreal Engine, STL
 - 👯 I’m looking for an intership to develop my skills
 - 🥅 Nearest future Goals: 
    - A graphic game with physics, enemies and character upgrades :bomb:
