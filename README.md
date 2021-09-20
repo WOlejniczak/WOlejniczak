@@ -5,7 +5,7 @@ I am interested in C#/C++
 
 - 🔭 Course that I'm using to learn C++: https://www.learncpp.com 
 - 🌱 I’m currently learning Unreal Engine, STL
-- 👯 I’m looking for an intership to develop my skills
+- 👯 I’m looking for my first job as a programmer to develop my skills
 - 🥅 Nearest future Goals: 
    - A graphic game with physics, enemies and character upgrades :bomb:
    - Simple GUI desktop application :ghost:
