@@ -3,9 +3,10 @@
 My name is Wiktor Olejniczak. I am the second year Information Technology student at University of Łódź.</br>
 I am interested in C#/C++ 
 
-- 🔭 Course that I'm using to learn C++: https://www.learncpp.com 
+
 - 🌱 I’m currently learning C#, and STL
-- 👯 I’m looking for my first job as a programmer to develop my skills
+ 
+- 👯 I’m looking to colaborate with talented Devs
 - 🥅 Nearest future Goals: 
    - A graphic game with physics, enemies and character upgrades :bomb:
    - Simple GUI desktop application :ghost:
